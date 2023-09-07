@@ -54,10 +54,11 @@
             {
                 Console.WriteLine("Осінь");
             }
-            else 
+            else
             {
-                Console.WriteLine("Немоє такого місяця");
-             }
+                Console.WriteLine("Немає такого місяця");
+                    }
+            
             Console.ReadKey();
         }
     }
