@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "the_square_of_a_number", "t
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "paired _unpaired", "Hillel_course\Lesson_3\paired _unpaired\paired _unpaired.csproj", "{5231B2DF-638B-4E4F-999F-E94E4FBC7826}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "Hillel_course\Lesson_3\ConsoleApp1\ConsoleApp1.csproj", "{D464E24C-D37C-43CD-A9A5-DB5AB2E392D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "comparison", "Hillel_course\Lesson_3\comparison\comparison.csproj", "{56F393AD-8CB1-471C-AC57-F2810C806B1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{5231B2DF-638B-4E4F-999F-E94E4FBC7826}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5231B2DF-638B-4E4F-999F-E94E4FBC7826}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5231B2DF-638B-4E4F-999F-E94E4FBC7826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D464E24C-D37C-43CD-A9A5-DB5AB2E392D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D464E24C-D37C-43CD-A9A5-DB5AB2E392D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D464E24C-D37C-43CD-A9A5-DB5AB2E392D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D464E24C-D37C-43CD-A9A5-DB5AB2E392D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56F393AD-8CB1-471C-AC57-F2810C806B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F393AD-8CB1-471C-AC57-F2810C806B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F393AD-8CB1-471C-AC57-F2810C806B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F393AD-8CB1-471C-AC57-F2810C806B1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
