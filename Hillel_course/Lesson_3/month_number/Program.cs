@@ -10,47 +10,47 @@
             {
                 Console.WriteLine("Зима");
             }
-            if (x == 2)
+            else if (x == 2)
             {
                 Console.WriteLine("Зима");
             }
-            if (x == 12)
+            else if (x == 12)
             {
                 Console.WriteLine("Зима");
             }
-            if (x == 3)
+            else if (x == 3)
             {
                 Console.WriteLine("Весна");
             }
-            if (x == 4)
+            else if (x == 4)
             {
                 Console.WriteLine("Весна");
             }
-            if (x == 5)
+            else if (x == 5)
             {
                 Console.WriteLine("Весна");
             }
-            if (x == 6)
+            else if (x == 6)
             {
                 Console.WriteLine("Літо");
             }
-            if (x == 7)
+            else if (x == 7)
             {
                 Console.WriteLine("Літо");
             }
-            if (x == 8)
+            else if (x == 8)
             {
                 Console.WriteLine("Літо");
             }
-            if (x == 9)
+            else if (x == 9)
             {
                 Console.WriteLine("Осінь");
             }
-            if (x == 10)
+            else if (x == 10)
             {
                 Console.WriteLine("Осінь");
             }
-            if (x == 11)
+            else if (x == 11)
             {
                 Console.WriteLine("Осінь");
             }
