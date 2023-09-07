@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reverse_order", "reverse_or
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "the_square_of_a_number", "the_square_of_a_number\the_square_of_a_number.csproj", "{DB66F2F3-76D7-4D3C-B8CC-C8A8C853F93B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "paired _unpaired", "Hillel_course\Lesson_3\paired _unpaired\paired _unpaired.csproj", "{5231B2DF-638B-4E4F-999F-E94E4FBC7826}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DB66F2F3-76D7-4D3C-B8CC-C8A8C853F93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB66F2F3-76D7-4D3C-B8CC-C8A8C853F93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB66F2F3-76D7-4D3C-B8CC-C8A8C853F93B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5231B2DF-638B-4E4F-999F-E94E4FBC7826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5231B2DF-638B-4E4F-999F-E94E4FBC7826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5231B2DF-638B-4E4F-999F-E94E4FBC7826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5231B2DF-638B-4E4F-999F-E94E4FBC7826}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
