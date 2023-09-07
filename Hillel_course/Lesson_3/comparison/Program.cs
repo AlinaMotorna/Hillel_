@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = System.Text.Encoding.Unicode;
             int x = int.Parse(Console.ReadLine());
             int z = int.Parse(Console.ReadLine());
             if (x > z)
