@@ -13,15 +13,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reverse_order", "reverse_or
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "the_square_of_a_number", "the_square_of_a_number\the_square_of_a_number.csproj", "{DB66F2F3-76D7-4D3C-B8CC-C8A8C853F93B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "paired _unpaired", "Hillel_course\Lesson_3\paired _unpaired\paired _unpaired.csproj", "{5231B2DF-638B-4E4F-999F-E94E4FBC7826}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "paired _unpaired", "Hillel_course\Lesson_3\paired _unpaired\paired _unpaired.csproj", "{5231B2DF-638B-4E4F-999F-E94E4FBC7826}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "Hillel_course\Lesson_3\ConsoleApp1\ConsoleApp1.csproj", "{D464E24C-D37C-43CD-A9A5-DB5AB2E392D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "comparison", "Hillel_course\Lesson_3\comparison\comparison.csproj", "{56F393AD-8CB1-471C-AC57-F2810C806B1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "comparison", "Hillel_course\Lesson_3\comparison\comparison.csproj", "{56F393AD-8CB1-471C-AC57-F2810C806B1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "days_of_sunday", "Hillel_course\Lesson_3\days_of_sunday\days_of_sunday.csproj", "{3468A686-4DB1-4B48-8E99-F899586883AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "days_of_sunday", "Hillel_course\Lesson_3\days_of_sunday\days_of_sunday.csproj", "{3468A686-4DB1-4B48-8E99-F899586883AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "month_number", "Hillel_course\Lesson_3\month_number\month_number.csproj", "{FFC7180C-B265-4686-800B-A1C2765EA74C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "month_number", "Hillel_course\Lesson_3\month_number\month_number.csproj", "{FFC7180C-B265-4686-800B-A1C2765EA74C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password", "Hillel_course\Lesson_4\Password\Password.csproj", "{4BFBD6B6-3987-4CA1-A34F-1AEEF5F120EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{FFC7180C-B265-4686-800B-A1C2765EA74C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFC7180C-B265-4686-800B-A1C2765EA74C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFC7180C-B265-4686-800B-A1C2765EA74C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BFBD6B6-3987-4CA1-A34F-1AEEF5F120EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BFBD6B6-3987-4CA1-A34F-1AEEF5F120EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BFBD6B6-3987-4CA1-A34F-1AEEF5F120EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BFBD6B6-3987-4CA1-A34F-1AEEF5F120EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
