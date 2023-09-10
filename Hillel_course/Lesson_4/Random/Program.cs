@@ -7,7 +7,7 @@
             {
                 int a = 0, num = 0;
                 Random random = new Random();
-                num = random.Next(1, 100);
+                num = random.Next(1, 146);
                 do
                 {
                     a = Convert.ToInt32(Console.ReadLine());
