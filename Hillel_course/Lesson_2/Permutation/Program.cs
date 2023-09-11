@@ -4,14 +4,14 @@
     {
         static void Main(string[] args)
         {
-            int first_number1 = 1;
-            int second_number2 = 2;
-            int third_number3 = 3;
-
-            Console.WriteLine(third_number3);
-            Console.WriteLine(second_number2);
-            Console.WriteLine(first_number1);
+            Console.Write("Число:");
+            int inputNum = int.Parse(Console.ReadLine());
+            int Num1 = inputNum / 100;
+            int Num2 = (inputNum - (Num1 * 100)) / 10;
+            int Num3 = inputNum % 10;
+            Console.WriteLine($"{(Num1) + (Num2) + (Num3)}");
             Console.ReadKey();
+
         }
     }
 }
