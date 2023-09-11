@@ -25,9 +25,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "month_number", "Hillel_cour
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Password", "Hillel_course\Lesson_4\Password\Password.csproj", "{4BFBD6B6-3987-4CA1-A34F-1AEEF5F120EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random", "Hillel_course\Lesson_4\Random\Random.csproj", "{D251359A-3FB9-41DB-89BC-1C96BB2B1F73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Random", "Hillel_course\Lesson_4\Random\Random.csproj", "{D251359A-3FB9-41DB-89BC-1C96BB2B1F73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return", "Hillel_course\Lesson_4\Return\Return.csproj", "{704732C1-77F3-4850-8601-41981764630A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Return", "Hillel_course\Lesson_4\Return\Return.csproj", "{704732C1-77F3-4850-8601-41981764630A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "From_right_to_left", "Hillel_course\Lesson_2\From_right_to_left\From_right_to_left.csproj", "{305A8B7C-1D03-4AA0-829D-526EB5D49D75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "transposition", "Hillel_course\Lesson_2\transposition\transposition.csproj", "{7B59B0E2-8A8C-414F-A0C0-5EB8C9C036F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "square", "Hillel_course\Lesson_2\square\square.csproj", "{C05A5C5B-B58B-46DD-A94A-BEAB3AD6A1A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +93,18 @@ Global
 		{704732C1-77F3-4850-8601-41981764630A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{704732C1-77F3-4850-8601-41981764630A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{704732C1-77F3-4850-8601-41981764630A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{305A8B7C-1D03-4AA0-829D-526EB5D49D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{305A8B7C-1D03-4AA0-829D-526EB5D49D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{305A8B7C-1D03-4AA0-829D-526EB5D49D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{305A8B7C-1D03-4AA0-829D-526EB5D49D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B59B0E2-8A8C-414F-A0C0-5EB8C9C036F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B59B0E2-8A8C-414F-A0C0-5EB8C9C036F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B59B0E2-8A8C-414F-A0C0-5EB8C9C036F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B59B0E2-8A8C-414F-A0C0-5EB8C9C036F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C05A5C5B-B58B-46DD-A94A-BEAB3AD6A1A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C05A5C5B-B58B-46DD-A94A-BEAB3AD6A1A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C05A5C5B-B58B-46DD-A94A-BEAB3AD6A1A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C05A5C5B-B58B-46DD-A94A-BEAB3AD6A1A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
