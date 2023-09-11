@@ -29,11 +29,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Random", "Hillel_course\Les
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Return", "Hillel_course\Lesson_4\Return\Return.csproj", "{704732C1-77F3-4850-8601-41981764630A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "From_right_to_left", "Hillel_course\Lesson_2\From_right_to_left\From_right_to_left.csproj", "{305A8B7C-1D03-4AA0-829D-526EB5D49D75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "From_right_to_left", "Hillel_course\Lesson_2\From_right_to_left\From_right_to_left.csproj", "{305A8B7C-1D03-4AA0-829D-526EB5D49D75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "transposition", "Hillel_course\Lesson_2\transposition\transposition.csproj", "{7B59B0E2-8A8C-414F-A0C0-5EB8C9C036F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "transposition", "Hillel_course\Lesson_2\transposition\transposition.csproj", "{7B59B0E2-8A8C-414F-A0C0-5EB8C9C036F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "square", "Hillel_course\Lesson_2\square\square.csproj", "{C05A5C5B-B58B-46DD-A94A-BEAB3AD6A1A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "square", "Hillel_course\Lesson_2\square\square.csproj", "{C05A5C5B-B58B-46DD-A94A-BEAB3AD6A1A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_at_the_beginning", "Hillel_course\Lesson_5\Array_at_the_beginning\Array_at_the_beginning.csproj", "{9792211F-6838-4F4A-BF43-46D4B1348868}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{C05A5C5B-B58B-46DD-A94A-BEAB3AD6A1A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C05A5C5B-B58B-46DD-A94A-BEAB3AD6A1A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C05A5C5B-B58B-46DD-A94A-BEAB3AD6A1A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9792211F-6838-4F4A-BF43-46D4B1348868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9792211F-6838-4F4A-BF43-46D4B1348868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9792211F-6838-4F4A-BF43-46D4B1348868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9792211F-6838-4F4A-BF43-46D4B1348868}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
