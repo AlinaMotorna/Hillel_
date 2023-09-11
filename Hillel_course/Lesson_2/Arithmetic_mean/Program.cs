@@ -9,7 +9,7 @@
             int sum = int.Parse(Console.ReadLine());
             Console.WriteLine("Введіть число:");
             int sum1 = int.Parse(Console.ReadLine());
-            Console.Writeline()
+            Console.Writeline($"Середнє арифметичне: {(sum + sum1) / 2}");
             Console.ReadKey();
         }
     }
