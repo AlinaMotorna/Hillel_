@@ -33,7 +33,7 @@
                 {
                     input = "";
                 }
-                operation = (Operation)System.Enum.TryParse(typeof(Operation));
+                operation = (Operation)Enum.TryParse(typeof(Operation));
 
 
             }
