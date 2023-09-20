@@ -31,9 +31,9 @@
                 if (string.IsNullOrEmpty(input))
 
                 {
-                    input = "5";
+                    input = "";
                 }
-                operation = (Operation)System.Enum.TryParse(typeof(Operation), input);
+                operation = (Operation)System.Enum.TryParse(typeof(Operation));
 
 
             }
