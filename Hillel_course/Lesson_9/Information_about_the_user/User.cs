@@ -1,4 +1,7 @@
-﻿namespace Information_about_the_user
+﻿using System.Diagnostics.Metrics;
+using System.IO;
+
+namespace Information_about_the_user
 {
     internal class User
     {
@@ -31,10 +34,9 @@
                 surname = value;
             }
         }
-
-        internal void PrintUser()
+        public void PrintUser()
         {
-            throw new NotImplementedException();
+            Console.WriteLine(Login + "\n" + Name + "\n" + Surname + "\n" + date);
         }
     }
 
