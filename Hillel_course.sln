@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TryParse", "Hillel_course\L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alphabetical_list_of_surnames", "Hillel_course\Lesson_6\Alphabetical_list_of_surnames\Alphabetical_list_of_surnames.csproj", "{AC44492F-EA99-4EC4-A3F2-1E14BCFFEB90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Working_with_classes", "Hillel_course\Lesson_8\Working_with_classes\Working_with_classes.csproj", "{E52A40FF-5B59-4934-9CEC-D3F8858DFF4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Working_with_classes", "Hillel_course\Lesson_8\Working_with_classes\Working_with_classes.csproj", "{E52A40FF-5B59-4934-9CEC-D3F8858DFF4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Working_with_class_constructors", "Hillel_course\Lesson_9\Working_with_class_constructors\Working_with_class_constructors.csproj", "{018D47E7-F588-4298-BD45-9489F4A9F738}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{E52A40FF-5B59-4934-9CEC-D3F8858DFF4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E52A40FF-5B59-4934-9CEC-D3F8858DFF4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E52A40FF-5B59-4934-9CEC-D3F8858DFF4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{018D47E7-F588-4298-BD45-9489F4A9F738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018D47E7-F588-4298-BD45-9489F4A9F738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018D47E7-F588-4298-BD45-9489F4A9F738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018D47E7-F588-4298-BD45-9489F4A9F738}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
