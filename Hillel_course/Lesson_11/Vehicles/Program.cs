@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace Vehicles
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            Car car = new Car();
+            car.Transport();
+
+            Bicycle bicycle = new Bicycle();
+            bicycle.Transport();
+        }
+    }
+}
