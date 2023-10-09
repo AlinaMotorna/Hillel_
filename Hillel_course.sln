@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Working_with_classes", "Hil
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Working_with_class_constructors", "Hillel_course\Lesson_9\Working_with_class_constructors\Working_with_class_constructors.csproj", "{018D47E7-F588-4298-BD45-9489F4A9F738}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Information_about_the_user", "Hillel_course\Lesson_9\Information_about_the_user\Information_about_the_user.csproj", "{B3F329CA-9F3C-409E-9598-BD998728D3D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Information_about_the_user", "Hillel_course\Lesson_9\Information_about_the_user\Information_about_the_user.csproj", "{B3F329CA-9F3C-409E-9598-BD998728D3D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Processing_of_geometric_figures", "Hillel_course\Lesson_11\Processing_of_geometric_figures\Processing_of_geometric_figures.csproj", "{32A349E5-1B99-4B4A-B38B-8D0E8F7C2BCE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{B3F329CA-9F3C-409E-9598-BD998728D3D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3F329CA-9F3C-409E-9598-BD998728D3D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3F329CA-9F3C-409E-9598-BD998728D3D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32A349E5-1B99-4B4A-B38B-8D0E8F7C2BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A349E5-1B99-4B4A-B38B-8D0E8F7C2BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A349E5-1B99-4B4A-B38B-8D0E8F7C2BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A349E5-1B99-4B4A-B38B-8D0E8F7C2BCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

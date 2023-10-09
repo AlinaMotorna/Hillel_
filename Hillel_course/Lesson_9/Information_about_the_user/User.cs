@@ -1,7 +1,4 @@
-﻿using System.Diagnostics.Metrics;
-using System.IO;
-
-namespace Information_about_the_user
+﻿namespace Information_about_the_user
 {
     internal class User
     {
@@ -34,9 +31,17 @@ namespace Information_about_the_user
                 surname = value;
             }
         }
+        public string Date
+        {
+            get { return date; }
+            set
+            {
+                date = value;
+            }
+        }
         public void PrintUser()
         {
-            Console.WriteLine(Login + "\n" + Name + "\n" + Surname + "\n" + date);
+            Console.WriteLine(Login + "\n" + Name + "\n" + Surname + "\n" + Date);
         }
     }
 
