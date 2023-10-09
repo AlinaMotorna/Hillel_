@@ -4,11 +4,7 @@
     {
         int number_of_doors;
 
-        public Car()
-        {
-        }
-
-        public Car(string name,string max_speed, int number_of_doors) : base()
+        public Car() : base()
         {
             name = "toyota";
             max_speed = "250 km/h";

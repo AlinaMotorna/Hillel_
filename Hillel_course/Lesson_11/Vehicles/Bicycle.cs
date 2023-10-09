@@ -6,11 +6,7 @@ namespace Vehicles
     {
         string type_bicycle;
 
-        public Bicycle()
-        {
-        }
-
-        public Bicycle(string name, string max_speed, string type_bicycle) : base()
+        public Bicycle() : base()
         {
             name = "Merida";
             max_speed = "50";
