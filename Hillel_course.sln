@@ -55,9 +55,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Processing_of_geometric_fig
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vehicles", "Hillel_course\Lesson_11\Vehicles\Vehicles.csproj", "{B5E46776-3D2A-4BFF-8BF1-8F4C341E8A53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount", "Hillel_course\Lesson_12\BankAccount\BankAccount.csproj", "{3BA1CFA4-E1FC-48FB-A2E9-0EFDE8A57022}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAccount", "Hillel_course\Lesson_12\BankAccount\BankAccount.csproj", "{3BA1CFA4-E1FC-48FB-A2E9-0EFDE8A57022}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentWorker", "Hillel_course\Lesson_12\DocumentWorker\DocumentWorker.csproj", "{5D01D92E-378B-4EAB-81F9-7A499EE998C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocumentWorker", "Hillel_course\Lesson_12\DocumentWorker\DocumentWorker.csproj", "{5D01D92E-378B-4EAB-81F9-7A499EE998C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movable", "Hillel_course\Lesson_13\Movable\Movable.csproj", "{035B250B-594D-4756-B144-580788ECBF4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{5D01D92E-378B-4EAB-81F9-7A499EE998C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D01D92E-378B-4EAB-81F9-7A499EE998C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D01D92E-378B-4EAB-81F9-7A499EE998C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{035B250B-594D-4756-B144-580788ECBF4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035B250B-594D-4756-B144-580788ECBF4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035B250B-594D-4756-B144-580788ECBF4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035B250B-594D-4756-B144-580788ECBF4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
