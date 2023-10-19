@@ -15,8 +15,7 @@ namespace Information_about_the_user
             {
                 Console.WriteLine("Ділення на 0");
             }
-            string? selection = Console.ReadLine();
-            double x, y = 5;
+            
         }
     }
 }
