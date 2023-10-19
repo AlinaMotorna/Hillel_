@@ -59,7 +59,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAccount", "Hillel_cours
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocumentWorker", "Hillel_course\Lesson_12\DocumentWorker\DocumentWorker.csproj", "{5D01D92E-378B-4EAB-81F9-7A499EE998C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movable", "Hillel_course\Lesson_13\Movable\Movable.csproj", "{035B250B-594D-4756-B144-580788ECBF4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Movable", "Hillel_course\Lesson_13\Movable\Movable.csproj", "{035B250B-594D-4756-B144-580788ECBF4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Hillel_course\Lesson_13\Math\Math.csproj", "{9F6D1047-BDD8-47FB-A023-C7963BCCCD7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +185,10 @@ Global
 		{035B250B-594D-4756-B144-580788ECBF4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{035B250B-594D-4756-B144-580788ECBF4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{035B250B-594D-4756-B144-580788ECBF4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F6D1047-BDD8-47FB-A023-C7963BCCCD7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6D1047-BDD8-47FB-A023-C7963BCCCD7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6D1047-BDD8-47FB-A023-C7963BCCCD7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6D1047-BDD8-47FB-A023-C7963BCCCD7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
