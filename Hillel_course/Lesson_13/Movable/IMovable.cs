@@ -2,8 +2,9 @@
 {
     internal interface IMovable
     {
-        public void Move()
+        public static void Move()
         {
+            
              int x;
              int y;
 
