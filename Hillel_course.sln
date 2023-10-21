@@ -63,6 +63,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Movable", "Hillel_course\Le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Hillel_course\Lesson_13\Math\Math.csproj", "{9F6D1047-BDD8-47FB-A023-C7963BCCCD7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Market_Product", "Hillel_course\Lesson_14\Market_Product\Market_Product.csproj", "{F1847DFF-2860-4A06-936E-B320E1D08AE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{9F6D1047-BDD8-47FB-A023-C7963BCCCD7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F6D1047-BDD8-47FB-A023-C7963BCCCD7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F6D1047-BDD8-47FB-A023-C7963BCCCD7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1847DFF-2860-4A06-936E-B320E1D08AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1847DFF-2860-4A06-936E-B320E1D08AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1847DFF-2860-4A06-936E-B320E1D08AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1847DFF-2860-4A06-936E-B320E1D08AE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
