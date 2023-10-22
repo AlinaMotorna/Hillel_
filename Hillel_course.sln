@@ -63,7 +63,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Movable", "Hillel_course\Le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Hillel_course\Lesson_13\Math\Math.csproj", "{9F6D1047-BDD8-47FB-A023-C7963BCCCD7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Market_Product", "Hillel_course\Lesson_14\Market_Product\Market_Product.csproj", "{F1847DFF-2860-4A06-936E-B320E1D08AE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Market_Product", "Hillel_course\Lesson_14\Market_Product\Market_Product.csproj", "{F1847DFF-2860-4A06-936E-B320E1D08AE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting_numbers", "Hillel_course\Lesson_15\Sorting_numbers\Sorting_numbers.csproj", "{CF77EC96-6FFD-4199-B64A-2E84595F0561}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alphabetical_order", "Hillel_course\Lesson_15\Alphabetical_order\Alphabetical_order.csproj", "{7FC5C923-7AEF-492B-9FF0-DEC575A87C5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duplicate_removal", "Hillel_course\Lesson_15\Duplicate_removal\Duplicate_removal.csproj", "{E4DFFD23-771C-4C3E-ADA8-E12CD95D06DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_of_grades", "Hillel_course\Lesson_15\List_of_grades\List_of_grades.csproj", "{93DD3923-677B-435B-81DD-D2D9D27527C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +203,22 @@ Global
 		{F1847DFF-2860-4A06-936E-B320E1D08AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1847DFF-2860-4A06-936E-B320E1D08AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1847DFF-2860-4A06-936E-B320E1D08AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF77EC96-6FFD-4199-B64A-2E84595F0561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF77EC96-6FFD-4199-B64A-2E84595F0561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF77EC96-6FFD-4199-B64A-2E84595F0561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF77EC96-6FFD-4199-B64A-2E84595F0561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FC5C923-7AEF-492B-9FF0-DEC575A87C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC5C923-7AEF-492B-9FF0-DEC575A87C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC5C923-7AEF-492B-9FF0-DEC575A87C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC5C923-7AEF-492B-9FF0-DEC575A87C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4DFFD23-771C-4C3E-ADA8-E12CD95D06DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4DFFD23-771C-4C3E-ADA8-E12CD95D06DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4DFFD23-771C-4C3E-ADA8-E12CD95D06DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4DFFD23-771C-4C3E-ADA8-E12CD95D06DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93DD3923-677B-435B-81DD-D2D9D27527C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93DD3923-677B-435B-81DD-D2D9D27527C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93DD3923-677B-435B-81DD-D2D9D27527C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93DD3923-677B-435B-81DD-D2D9D27527C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
