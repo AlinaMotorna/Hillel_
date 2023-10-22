@@ -65,13 +65,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Hillel_course\Lesso
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Market_Product", "Hillel_course\Lesson_14\Market_Product\Market_Product.csproj", "{F1847DFF-2860-4A06-936E-B320E1D08AE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting_numbers", "Hillel_course\Lesson_15\Sorting_numbers\Sorting_numbers.csproj", "{CF77EC96-6FFD-4199-B64A-2E84595F0561}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sorting_numbers", "Hillel_course\Lesson_15\Sorting_numbers\Sorting_numbers.csproj", "{CF77EC96-6FFD-4199-B64A-2E84595F0561}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alphabetical_order", "Hillel_course\Lesson_15\Alphabetical_order\Alphabetical_order.csproj", "{7FC5C923-7AEF-492B-9FF0-DEC575A87C5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alphabetical_order", "Hillel_course\Lesson_15\Alphabetical_order\Alphabetical_order.csproj", "{7FC5C923-7AEF-492B-9FF0-DEC575A87C5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duplicate_removal", "Hillel_course\Lesson_15\Duplicate_removal\Duplicate_removal.csproj", "{E4DFFD23-771C-4C3E-ADA8-E12CD95D06DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Duplicate_removal", "Hillel_course\Lesson_15\Duplicate_removal\Duplicate_removal.csproj", "{E4DFFD23-771C-4C3E-ADA8-E12CD95D06DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_of_grades", "Hillel_course\Lesson_15\List_of_grades\List_of_grades.csproj", "{93DD3923-677B-435B-81DD-D2D9D27527C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "List_of_grades", "Hillel_course\Lesson_15\List_of_grades\List_of_grades.csproj", "{93DD3923-677B-435B-81DD-D2D9D27527C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search_for_maximum_index", "Hillel_course\Lesson_15\Search_for_maximum_index\Search_for_maximum_index.csproj", "{E9895574-1BA1-41B2-B6F6-62980CE4BF4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +221,10 @@ Global
 		{93DD3923-677B-435B-81DD-D2D9D27527C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93DD3923-677B-435B-81DD-D2D9D27527C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93DD3923-677B-435B-81DD-D2D9D27527C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9895574-1BA1-41B2-B6F6-62980CE4BF4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9895574-1BA1-41B2-B6F6-62980CE4BF4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9895574-1BA1-41B2-B6F6-62980CE4BF4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9895574-1BA1-41B2-B6F6-62980CE4BF4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
